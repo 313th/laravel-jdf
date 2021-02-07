@@ -1,7 +1,7 @@
 {
     "name": "sahifedp/jdf",
     "description": "Jalali Date Convertor For Laravel",
-    "license": "GNU",
+    "license": "MIT",
     "authors": [
         {
             "name": "Reza Gholampanahi",
