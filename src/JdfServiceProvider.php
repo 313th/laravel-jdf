@@ -1,6 +1,6 @@
 <?php
 
-namespace SahifeDP\Jdf;
+namespace sahifedp\jdf;
 
 use Illuminate\Support\ServiceProvider;
 

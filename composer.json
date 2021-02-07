@@ -18,18 +18,18 @@
     "extra": {
         "laravel": {
             "providers": [
-                "SahifeDP\\jdf\\JdfServiceProvider"
+                "sahifedp\\jdf\\JdfServiceProvider"
             ],
             "aliases": {
-            	"Jdf": "SahifeDP\\jdf\\jdf",
-            	"JDF": "SahifeDP\\jdf\\jdf",
-            	"jdf": "SahifeDP\\jdf\\jdf"
+            	"Jdf": "sahifedp\\jdf\\jdf",
+            	"JDF": "sahifedp\\jdf\\jdf",
+            	"jdf": "sahifedp\\jdf\\jdf"
             }
         }
     },
     "autoload": {
         "psr-4": {
-            "SahifeDP\\Jdf\\": "src/"
+            "sahifedp\\jdf\\": "src/"
         }
     }
 }

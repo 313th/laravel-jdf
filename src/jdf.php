@@ -1,5 +1,5 @@
 <?php /* In the name of Allah = بسم اللّه الرّحمن الرّحیم */
-namespace SahifeDp\jdf;
+namespace sahifedp\jdf;
 
 class jdf
 {
