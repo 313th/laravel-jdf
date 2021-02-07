@@ -18,7 +18,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "sahifedp\\jdf\\JdfServiceProvider"
+                "SahifeDP\\jdf\\JdfServiceProvider"
             ],
             "aliases": {
             	"Jdf": "SahifeDP\\jdf\\jdf",
