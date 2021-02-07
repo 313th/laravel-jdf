@@ -1,0 +1,35 @@
+{
+    "name": "sahifedp/jdf",
+    "description": "Jalali Date Convertor For Laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Reza Gholampanahi",
+            "email": "aquarius.native@gmail.com"
+        },
+        {
+            "name": "Mohsen Bagheri",
+            "email": "aquarius.native@gmail.com"
+        }
+    ],
+    "require": {
+        "laravel/laravel": ">=5.5"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "sahifedp\\jdf\\JdfServiceProvider"
+            ],
+            "aliases": {
+            	"Jdf": "SahifeDP\\jdf\\jdf",
+            	"JDF": "SahifeDP\\jdf\\jdf",
+            	"jdf": "SahifeDP\\jdf\\jdf"
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "SahifeDP\\Jdf\\": "src/"
+        }
+    }
+}
